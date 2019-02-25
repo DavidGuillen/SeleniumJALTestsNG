@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: selenium.ng.tests.jal.testsCases.Booking001Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 35.649 sec

@@ -1,0 +1,7 @@
+selenium\ng\tests\jal\testsCases\Booking001Test.class
+selenium\ng\tests\jal\pageObjects\HomePageObject.class
+Booking001FromNGClass.class
+selenium\ng\tests\jal\pageObjects\AvaiPageIDs.class
+selenium\ng\tests\jal\pageObjects\AlpiPageObject.class
+selenium\ng\tests\jal\pageObjects\AvaiPageObject.class
+selenium\ng\tests\jal\pageObjects\HomePageIDs.class
